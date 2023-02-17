@@ -16,6 +16,7 @@ You can see the [theme in action](http://www.giuliofidente.com/).
 - custom list of links
 - supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugin
 - supports the [pelican-search](https://github.com/pelican-plugins/search) plugin
+- supports the [series](https://github.com/pelican-plugins/series) plugin
 
 ## KNOWN ISSUES
 
